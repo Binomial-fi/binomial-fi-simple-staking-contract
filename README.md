@@ -6,4 +6,4 @@ Simple staking smart contracts
 
 ## Audit
 
-https://book.getfoundry.sh/
+[SlowMist Audit Report](https://github.com/Binomial-fi/binomial-fi-simple-staking-contract/blob/main/audits/Binomial-SimpleStaking-SlowMist-Audit-Report.pdf)
